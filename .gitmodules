@@ -1,0 +1,12 @@
+[submodule "owl-rules"]
+	path = owl-rules
+	url = git@github.com:johnowl/owl-rules.git
+[submodule "owl-toggle-server"]
+	path = owl-toggle-server
+	url = git@github.com:johnowl/owl-toggle-server.git
+[submodule "owl-toggle-client"]
+	path = owl-toggle-client
+	url = git@github.com:johnowl/owl-toggle-client.git
+[submodule "owl-toggle-sample-app"]
+	path = owl-toggle-sample-app
+	url = git@github.com:johnowl/owl-toggle-sample-app.git
